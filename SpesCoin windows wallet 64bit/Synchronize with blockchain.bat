@@ -1,0 +1,1 @@
+forknoted --config-file configs/spescoin.conf

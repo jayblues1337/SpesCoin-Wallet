@@ -1,0 +1,1 @@
+simplewallet --config-file configs/spescoin.conf

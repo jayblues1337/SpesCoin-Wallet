@@ -1,0 +1,22 @@
+SpesCoin Instructions:
+
+1 - Synchronize with the blockchain :
+
+    right click anywhere inside the SpesCoin linux wallet folder and press "Open in Teminal" in terminal type: ./forknoted --config-file configs/spescoin.conf  and wait to synchronize.
+
+2 - Wallet
+
+    right click anywhere inside the SpesCoin linux wallet folder and press "Open in Teminal" in terminal type:  ./simplewallet --config-file configs/spescoin.conf and follow the onscreen instructions and you'll be ready to go in no time!!!  
+
+    just run "SimpleWallet.cmd" and follow the onscreen instructions and you'll be ready to go in no time!!! 
+
+3 - Miner - this is only for local mining
+
+    right click anywhere inside the SpesCoin linux wallet folder and press "Open in Teminal" in terminal type: ./miner --address paste your address here --threads ? cpu's amount you want to use --daemon-rpc-port 55490 --log-level 4
+
+The command in terminal should look similar to: ./miner --address 123456 --threads 6 --daemon-rpc-port 55490 --log-level 4
+ 
+    
+Pool mining intructions please visit: http://pool.myspes.org
+
+Happy mining and enjoy SpesCoin :) !!!

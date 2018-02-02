@@ -1,0 +1,1 @@
+miner --address put your address here --threads ?(cpu's amount you want to use) --daemon-rpc-port 55490 --log-level 4
