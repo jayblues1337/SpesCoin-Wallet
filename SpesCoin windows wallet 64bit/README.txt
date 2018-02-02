@@ -14,6 +14,6 @@ SpesCoin Instructions:
 
     The command inside "Miner.cmd" shloud look similar to: miner --address 123456 --threads 6 --daemon-rpc-port 55490 --log-level 4
 
-Pool mining intructions please visit http:pool.myspes.org
+Pool mining intructions please visit http://pool.myspes.org
 
 Happy mining and enjoy SpesCoin :) !!!
